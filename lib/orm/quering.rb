@@ -11,7 +11,7 @@ module Orm
     end
 
     def find_by(**hash)
-      
+
     end
   end
 end
